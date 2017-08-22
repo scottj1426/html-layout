@@ -1,0 +1,47 @@
+body ,html {
+  margin: 0;
+  padding: 0;
+}
+
+.content{
+  width: 100%;
+
+}
+
+
+.header{
+  background-color: #D8D8D8;
+  height: 14vh;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: -50px;
+}
+
+.bluebox{
+  background-color: #4A90E2;
+  width: 100px;
+  height: 100px;
+
+}
+
+.pgraph{
+  background-color: #FFFFFF;
+  height: 30vh;
+    font-size: 30px;
+}
+.blue{
+  background-color: #4A90E2;
+    height: 14vh;
+}
+.teal{
+  background-color: #50E3C2;
+    height: 14vh;
+}
+.green{
+  background-color: #B8E986;
+    height: 14vh;
+}
+.yellow{
+  background-color: #F8E71C;
+    height: 14vh;
+}
